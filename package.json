@@ -1,0 +1,17 @@
+{
+  "name": "3d-pressable-button",
+  "version": "1.0.0",
+  "description": "A realistic 3D button component built with HTML, CSS, and SVG",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "echo 'No build step needed for static HTML'"
+  },
+  "keywords": ["3d", "button", "css", "svg", "animation"],
+  "author": "BalintFerenczy",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
